@@ -1,1 +1,1 @@
-# head-first-python-2e
+# 《Head First Python（第 2 版）》配套代码
